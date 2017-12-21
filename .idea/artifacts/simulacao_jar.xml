@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="simulacao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simulacao_jar</output-path>
+    <root id="archive" name="simulacao.jar">
+      <element id="module-output" name="simulacao" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/collections/google-collections/1.0/google-collections-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
