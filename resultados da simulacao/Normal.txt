@@ -1,0 +1,153 @@
+##### Rodando 1ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 4
+Quantidade de requisições atendidas: 3
+Quantidade média de elementos em espera: 830,00
+ Tempo médio de atendimento: 3,11 segundos 
+<--- Final da 1º repetição --->
+
+##### Rodando 2ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 4
+Quantidade de requisições atendidas: 3
+Quantidade média de elementos em espera: 830,00
+ Tempo médio de atendimento: 3,11 segundos 
+<--- Final da 2º repetição --->
+
+##### Rodando 3ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 8
+Quantidade de requisições atendidas: 7
+Quantidade média de elementos em espera: 3428,00
+ Tempo médio de atendimento: 3,66 segundos 
+<--- Final da 3º repetição --->
+
+##### Rodando 4ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 14
+Quantidade de requisições atendidas: 13
+Quantidade média de elementos em espera: 5860,00
+ Tempo médio de atendimento: 3,06 segundos 
+<--- Final da 4º repetição --->
+
+##### Rodando 5ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 16
+Quantidade de requisições atendidas: 15
+Quantidade média de elementos em espera: 6591,00
+ Tempo médio de atendimento: 3,13 segundos 
+<--- Final da 5º repetição --->
+
+##### Rodando 6ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 18
+Quantidade de requisições atendidas: 17
+Quantidade média de elementos em espera: 7433,00
+ Tempo médio de atendimento: 3,34 segundos 
+<--- Final da 6º repetição --->
+
+##### Rodando 7ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 18
+Quantidade de requisições atendidas: 17
+Quantidade média de elementos em espera: 7433,00
+ Tempo médio de atendimento: 3,34 segundos 
+<--- Final da 7º repetição --->
+
+##### Rodando 8ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 24
+Quantidade de requisições atendidas: 23
+Quantidade média de elementos em espera: 10474,00
+ Tempo médio de atendimento: 3,45 segundos 
+<--- Final da 8º repetição --->
+
+##### Rodando 9ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 25
+Quantidade de requisições atendidas: 24
+Quantidade média de elementos em espera: 10978,00
+ Tempo médio de atendimento: 3,73 segundos 
+<--- Final da 9º repetição --->
+
+##### Rodando 10ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 28
+Quantidade de requisições atendidas: 27
+Quantidade média de elementos em espera: 12482,00
+ Tempo médio de atendimento: 3,68 segundos 
+<--- Final da 10º repetição --->
+
+##### Rodando 11ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 29
+Quantidade de requisições atendidas: 28
+Quantidade média de elementos em espera: 13015,00
+ Tempo médio de atendimento: 3,86 segundos 
+<--- Final da 11º repetição --->
+
+##### Rodando 12ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 31
+Quantidade de requisições atendidas: 30
+Quantidade média de elementos em espera: 14069,00
+ Tempo médio de atendimento: 3,85 segundos 
+<--- Final da 12º repetição --->
+
+##### Rodando 13ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 34
+Quantidade de requisições atendidas: 33
+Quantidade média de elementos em espera: 15695,00
+ Tempo médio de atendimento: 3,84 segundos 
+<--- Final da 13º repetição --->
+
+##### Rodando 14ª repetição #####
+
+Distribuição Normal - Media: 4,00 / Desvio padrão: 1,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 35
+Quantidade de requisições atendidas: 34
+Quantidade média de elementos em espera: 16224,00
+ Tempo médio de atendimento: 3,88 segundos 
+<--- Final da 14º repetição --->

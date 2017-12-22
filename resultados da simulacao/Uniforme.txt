@@ -1,0 +1,155 @@
+##### Rodando 1ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 16 segundos 
+Quantidade de requisições recebidas: 2
+Quantidade de requisições atendidas: 1
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 0,58 segundos 
+<--- Final da 1º repetição --->
+
+##### Rodando 2ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 11 segundos 
+Quantidade de requisições recebidas: 7
+Quantidade de requisições atendidas: 2
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 11,30 segundos 
+<--- Final da 2º repetição --->
+
+##### Rodando 3ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 14 segundos 
+Quantidade de requisições recebidas: 11
+Quantidade de requisições atendidas: 3
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 10,61 segundos 
+<--- Final da 3º repetição --->
+
+##### Rodando 4ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 13
+Quantidade de requisições atendidas: 5
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 6,61 segundos 
+<--- Final da 4º repetição --->
+
+##### Rodando 5ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 15
+Quantidade de requisições atendidas: 6
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,84 segundos 
+<--- Final da 5º repetição --->
+
+##### Rodando 6ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 15 segundos 
+Quantidade de requisições recebidas: 15
+Quantidade de requisições atendidas: 6
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,84 segundos 
+<--- Final da 6º repetição --->
+
+##### Rodando 7ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 11 segundos 
+Quantidade de requisições recebidas: 19
+Quantidade de requisições atendidas: 8
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 7,20 segundos 
+<--- Final da 7º repetição --->
+
+##### Rodando 8ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 11 segundos 
+Quantidade de requisições recebidas: 22
+Quantidade de requisições atendidas: 10
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 6,63 segundos 
+<--- Final da 8º repetição --->
+
+##### Rodando 9ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 26
+Quantidade de requisições atendidas: 13
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,81 segundos 
+<--- Final da 9º repetição --->
+
+##### Rodando 10ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 11 segundos 
+Quantidade de requisições recebidas: 29
+Quantidade de requisições atendidas: 16
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,34 segundos 
+<--- Final da 10º repetição --->
+
+##### Rodando 11ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 12 segundos 
+Quantidade de requisições recebidas: 32
+Quantidade de requisições atendidas: 18
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,27 segundos 
+<--- Final da 11º repetição --->
+
+##### Rodando 12ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 34
+Quantidade de requisições atendidas: 19
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,18 segundos 
+<--- Final da 12º repetição --->
+
+##### Rodando 13ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 12 segundos 
+Quantidade de requisições recebidas: 36
+Quantidade de requisições atendidas: 19
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,18 segundos 
+<--- Final da 13º repetição --->
+
+##### Rodando 14ª repetição #####
+
+Distribuição Uniforme - intervalo: [0.0,10000.0] 
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 38
+Quantidade de requisições atendidas: 20
+Quantidade média de elementos em espera: 0,00
+ Tempo médio de atendimento: 5,07 segundos 
+<--- Final da 14º repetição --->
+
+$$$ Fim da simulação $$$

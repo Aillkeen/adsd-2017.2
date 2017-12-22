@@ -1,0 +1,153 @@
+##### Rodando 1ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 3
+Quantidade de requisições atendidas: 2
+Quantidade média de elementos em espera: 1387,00
+ Tempo médio de atendimento: 4,93 segundos 
+<--- Final da 1º repetição --->
+
+##### Rodando 2ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 5
+Quantidade de requisições atendidas: 4
+Quantidade média de elementos em espera: 2380,00
+ Tempo médio de atendimento: 4,52 segundos 
+<--- Final da 2º repetição --->
+
+##### Rodando 3ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 8
+Quantidade de requisições atendidas: 7
+Quantidade média de elementos em espera: 4021,00
+ Tempo médio de atendimento: 4,13 segundos 
+<--- Final da 3º repetição --->
+
+##### Rodando 4ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 9
+Quantidade de requisições atendidas: 8
+Quantidade média de elementos em espera: 4478,00
+ Tempo médio de atendimento: 3,88 segundos 
+<--- Final da 4º repetição --->
+
+##### Rodando 5ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 11
+Quantidade de requisições atendidas: 10
+Quantidade média de elementos em espera: 5785,00
+ Tempo médio de atendimento: 4,59 segundos 
+<--- Final da 5º repetição --->
+
+##### Rodando 6ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 15
+Quantidade de requisições atendidas: 14
+Quantidade média de elementos em espera: 8229,00
+ Tempo médio de atendimento: 4,17 segundos 
+<--- Final da 6º repetição --->
+
+##### Rodando 7ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 19
+Quantidade de requisições atendidas: 18
+Quantidade média de elementos em espera: 10149,00
+ Tempo médio de atendimento: 3,85 segundos 
+<--- Final da 7º repetição --->
+
+##### Rodando 8ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 20
+Quantidade de requisições atendidas: 19
+Quantidade média de elementos em espera: 10625,00
+ Tempo médio de atendimento: 3,92 segundos 
+<--- Final da 8º repetição --->
+
+##### Rodando 9ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 21
+Quantidade de requisições atendidas: 20
+Quantidade média de elementos em espera: 11173,00
+ Tempo médio de atendimento: 4,20 segundos 
+<--- Final da 9º repetição --->
+
+##### Rodando 10ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 22
+Quantidade de requisições atendidas: 21
+Quantidade média de elementos em espera: 11800,00
+ Tempo médio de atendimento: 4,50 segundos 
+<--- Final da 10º repetição --->
+
+##### Rodando 11ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 24
+Quantidade de requisições atendidas: 23
+Quantidade média de elementos em espera: 13187,00
+ Tempo médio de atendimento: 4,72 segundos 
+<--- Final da 11º repetição --->
+
+##### Rodando 12ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 27
+Quantidade de requisições atendidas: 26
+Quantidade média de elementos em espera: 15023,00
+ Tempo médio de atendimento: 4,43 segundos 
+<--- Final da 12º repetição --->
+
+##### Rodando 13ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 28
+Quantidade de requisições atendidas: 27
+Quantidade média de elementos em espera: 15657,00
+ Tempo médio de atendimento: 4,61 segundos 
+<--- Final da 13º repetição --->
+
+##### Rodando 14ª repetição #####
+
+Distribuição Exponencial - Media: 4,00
+Valor médio serviço passado: 6
+Duração da simulação: 10 segundos 
+Quantidade de requisições recebidas: 31
+Quantidade de requisições atendidas: 30
+Quantidade média de elementos em espera: 17553,00
+ Tempo médio de atendimento: 4,59 segundos 
+<--- Final da 14º repetição --->

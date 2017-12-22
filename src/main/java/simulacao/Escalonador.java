@@ -10,9 +10,6 @@ import java.util.concurrent.ConcurrentLinkedDeque;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * Created by Aillkeen on 20/12/2017.
- */
 public class Escalonador {
 
     private final Queue<Fregues> fila;
@@ -24,9 +21,9 @@ public class Escalonador {
     private ExecutorService executorService;
 
 
-    public Escalonador(int distribuicao) {
+    public Escalonador(int media) {
         this.fila = new ConcurrentLinkedDeque<>();
-        this.distribuicao = new ExponentialDistribution(distribuicao);
+        this.distribuicao = new ExponentialDistribution(media);
         this.totalRequisicoesAtendidas = 0;
         this.mediaAtendimento = 0;
         this.totalRequisicoesRecebidas = 0;
@@ -35,7 +32,7 @@ public class Escalonador {
 
     }
 
-    private void executaServico(boolean finalAtendimento){
+    private void executaServico(Supplier<Boolean> finalAtendimento){
 
         executorService.submit(new Runnable() {
             public void run() {
@@ -44,15 +41,16 @@ public class Escalonador {
                     fila.poll();
                     int tempoProcessado = (int) Math.abs(distribuicao.sample());
                     calculaMediaElementosEspera();
-                    if (finalAtendimento)
+                    if (finalAtendimento.get()) {
                         return;
+                    }
 
                     try{
                         Thread.sleep(tempoProcessado);
                     }catch (InterruptedException e){
                         throw new RuntimeException(e.getMessage());
                     }
-                    if (finalAtendimento)
+                    if (finalAtendimento.get())
                         return;
                     totalRequisicoesAtendidas++;
                     calculaTempoAtendimento(tempoProcessado);
@@ -70,7 +68,7 @@ public class Escalonador {
         mediaElementosEspera = (mediaElementosEspera * (totalRequisicoesRecebidas -1) + fila.size())/ totalRequisicoesRecebidas;
     }
 
-    public void addFregues(Fregues fregues, boolean encerraAtendimento){
+    public void addFregues(Fregues fregues, Supplier<Boolean> encerraAtendimento){
         this.fila.offer(fregues);
         executaServico(encerraAtendimento);
     }

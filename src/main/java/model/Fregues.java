@@ -1,8 +1,5 @@
 package model;
 
-/**
- * Created by Aillkeen on 20/12/2017.
- */
 public class Fregues {
 
     private String nome;

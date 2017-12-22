@@ -64,9 +64,6 @@ public class Main {
         }
         reader.close();
 
-
-
-
     }
 
     private static void informaParamDistNormal() {
@@ -238,12 +235,12 @@ public class Main {
     private static AbstractRealDistribution retornaDistribuicaoEscolhida() {
         switch (distribuicao) {
             case DISTRIBUICAO_NORMAL:
-                Double min = parametros.get(0);
-                Double max = parametros.get(1);
-                return new NormalDistribution(min, max);
-            case DISTRIBUICAO_EXPONENCIAL:
                 Double media = parametros.get(0);
-                return new ExponentialDistribution(media);
+                Double desvioPadrao = parametros.get(1);
+                return new NormalDistribution(media, desvioPadrao);
+            case DISTRIBUICAO_EXPONENCIAL:
+                Double mediaExp = parametros.get(0);
+                return new ExponentialDistribution(mediaExp);
             case DISTRIBUICAO_UNIFORME:
                 return new UniformRealDistribution(parametros.get(0), parametros.get(1));
         }
