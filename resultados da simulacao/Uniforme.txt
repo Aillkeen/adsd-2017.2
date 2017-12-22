@@ -151,5 +151,3 @@ Quantidade de requisições atendidas: 20
 Quantidade média de elementos em espera: 0,00
  Tempo médio de atendimento: 5,07 segundos 
 <--- Final da 14º repetição --->
-
-$$$ Fim da simulação $$$
